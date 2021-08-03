@@ -41,7 +41,7 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         directory: ./public
-        repository: khadas/khadas.github.io
+        repository: numbqq/numbqq.github.io
         branch: master
         github_token: ${{ secrets.ACCESS_TOKEN }}
         force: true
